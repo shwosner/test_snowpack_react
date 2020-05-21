@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "camel-case": "https://cdn.pika.dev/pin/camel-case@v4.1.1-Alui70865ityrqCSCZaK/camel-case.js"
+  }
+}
