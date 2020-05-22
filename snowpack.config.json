@@ -1,6 +1,0 @@
-{
-  "extends": "@snowpack/app-scripts-react",
-  "devOptions": {},
-  "installOptions": {},
-  "plugins": ["@snowpack/plugin-parcel"]
-}
